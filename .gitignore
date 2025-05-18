@@ -1,0 +1,21 @@
+# Eclipse project files
+.metadata/
+.settings/
+bin/
+
+# Java class files
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Eclipse launch configurations
+*.launch
+
+# Build folders (if any)
+target/
+build/
+
+# Gradle files (if you use Gradle)
+.gradle/
